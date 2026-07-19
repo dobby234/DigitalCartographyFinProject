@@ -1,0 +1,2358 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-19T11:18:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/214275985",
+        "free_flying:hanggliding": "yes",
+        "free_flying:official": "yes",
+        "free_flying:paragliding": "yes",
+        "free_flying:site": "landing",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Gleitschirmlandeplatz Höhematte",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8589241,
+              46.6866396
+            ],
+            [
+              7.8574746,
+              46.6859695
+            ],
+            [
+              7.8576017,
+              46.6858401
+            ],
+            [
+              7.8590512,
+              46.6865102
+            ],
+            [
+              7.8589241,
+              46.6866396
+            ]
+          ]
+        ]
+      },
+      "id": "way/214275985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221178595",
+        "free_flying:site": "landing",
+        "leisure": "piste",
+        "name": "Deltaflieger- und Gleitschirmlandeplatz Lehn",
+        "operator": "Deltaclub Interlaken",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.824307,
+              46.6810562
+            ],
+            [
+              7.8229591,
+              46.6808228
+            ],
+            [
+              7.8229168,
+              46.680265
+            ],
+            [
+              7.8243058,
+              46.6805383
+            ],
+            [
+              7.824307,
+              46.6810562
+            ]
+          ]
+        ]
+      },
+      "id": "way/221178595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1174923569",
+        "free_flying:hanggliding": "yes",
+        "free_flying:official": "yes",
+        "free_flying:paragliding": "yes",
+        "free_flying:site": "takeoff",
+        "free_flying:site_orientation": "S",
+        "leisure": "pitch",
+        "name": "Gleitschirmstartplatz Luegibrüggli",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8104482,
+              46.6911216
+            ],
+            [
+              7.8102168,
+              46.6910991
+            ],
+            [
+              7.8100245,
+              46.6909543
+            ],
+            [
+              7.8100234,
+              46.6906957
+            ],
+            [
+              7.8106183,
+              46.6906945
+            ],
+            [
+              7.8106199,
+              46.6910536
+            ],
+            [
+              7.8104482,
+              46.6911216
+            ]
+          ]
+        ]
+      },
+      "id": "way/1174923569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206407630",
+        "ele": "950",
+        "free_flying:hanggliding": "no",
+        "free_flying:official": "yes",
+        "free_flying:paragliding": "yes",
+        "free_flying:rigid": "no",
+        "free_flying:site": "landing",
+        "free_flying:site_orientation": "W, E",
+        "leisure": "pitch",
+        "name": "Landeplatz Grund",
+        "source": "survey",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.030348,
+              46.6202137
+            ],
+            [
+              8.0292968,
+              46.6204277
+            ],
+            [
+              8.0290724,
+              46.6199078
+            ],
+            [
+              8.0301236,
+              46.6196938
+            ],
+            [
+              8.030348,
+              46.6202137
+            ]
+          ]
+        ]
+      },
+      "id": "way/1206407630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206410722",
+        "ele": "2110",
+        "free_flying:hanggliding": "no",
+        "free_flying:official": "yes",
+        "free_flying:paragliding": "yes",
+        "free_flying:rigid": "no",
+        "free_flying:site": "takeoff",
+        "free_flying:site_orientation": "S,SW",
+        "leisure": "pitch",
+        "name": "First",
+        "source": "survey",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.0549717,
+              46.6574774
+            ],
+            [
+              8.0550221,
+              46.6573296
+            ],
+            [
+              8.0553873,
+              46.6573883
+            ],
+            [
+              8.0553369,
+              46.6575361
+            ],
+            [
+              8.0549717,
+              46.6574774
+            ]
+          ]
+        ]
+      },
+      "id": "way/1206410722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214715698",
+        "free_flying:hanggliding": "no",
+        "free_flying:official": "no",
+        "free_flying:paragliding": "yes",
+        "free_flying:rigid": "no",
+        "free_flying:site": "takeoff",
+        "free_flying:site_orientation": "SE",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Lobhornhütte takeoff",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8687544,
+              46.618273
+            ],
+            [
+              7.8686955,
+              46.6182327
+            ],
+            [
+              7.8688067,
+              46.6181561
+            ],
+            [
+              7.8688655,
+              46.6181964
+            ],
+            [
+              7.8687544,
+              46.618273
+            ]
+          ]
+        ]
+      },
+      "id": "way/1214715698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214716608",
+        "free_flying:hanggliding": "no",
+        "free_flying:official": "no",
+        "free_flying:paragliding": "yes",
+        "free_flying:rigid": "no",
+        "free_flying:site": "landing",
+        "free_flying:site_orientation": "W,E",
+        "leisure": "pitch",
+        "name": "Zweilutschinen landing",
+        "sport": "free_flying",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9020599,
+              46.6325973
+            ],
+            [
+              7.9023265,
+              46.6322554
+            ],
+            [
+              7.9036027,
+              46.631855
+            ],
+            [
+              7.9037582,
+              46.632891
+            ],
+            [
+              7.902386,
+              46.6331862
+            ],
+            [
+              7.9020599,
+              46.6325973
+            ]
+          ]
+        ]
+      },
+      "id": "way/1214716608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1222006099",
+        "free_flying:site": "takeoff",
+        "landuse": "meadow",
+        "name": "Startplatz Wurmegg",
+        "operator": "Airtime Paragliding",
+        "sport": "free_flying",
+        "website": "https://gleitschirmclub-lauterbrunnental.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8875841,
+              46.5563655
+            ],
+            [
+              7.8875044,
+              46.5563363
+            ],
+            [
+              7.8874633,
+              46.556293
+            ],
+            [
+              7.8874659,
+              46.556157
+            ],
+            [
+              7.887586,
+              46.5561168
+            ],
+            [
+              7.8879451,
+              46.556142
+            ],
+            [
+              7.8879682,
+              46.5563151
+            ],
+            [
+              7.8877601,
+              46.5563063
+            ],
+            [
+              7.8877138,
+              46.5563248
+            ],
+            [
+              7.8877151,
+              46.5563566
+            ],
+            [
+              7.8875841,
+              46.5563655
+            ]
+          ]
+        ]
+      },
+      "id": "way/1222006099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1222006100",
+        "free_flying:site": "takeoff",
+        "landuse": "meadow",
+        "name": "Startplatz Schiltgrat",
+        "operator": "Airtime Paragliding",
+        "sport": "free_flying",
+        "website": "https://gleitschirmclub-lauterbrunnental.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8732059,
+              46.556989
+            ],
+            [
+              7.8726024,
+              46.5568219
+            ],
+            [
+              7.8733897,
+              46.5562981
+            ],
+            [
+              7.8739094,
+              46.5567511
+            ],
+            [
+              7.8732059,
+              46.556989
+            ]
+          ]
+        ]
+      },
+      "id": "way/1222006100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1450212164",
+        "access": "yes",
+        "area": "yes",
+        "direction": "N",
+        "ele": "1720m",
+        "free_flying:official": "no",
+        "free_flying:paragliding": "yes",
+        "free_flying:site": "takeoff",
+        "free_flying:site_orientation": "N",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Apiglen",
+        "official_name": "Apiglen",
+        "source": "Syride",
+        "source:updated": "2025-11-13",
+        "source_ref": "https://www.syride.com//fr/sites/Apiglen",
+        "sport": "free_flying",
+        "status": "active",
+        "website": "https://www.syride.com//fr/sites/Apiglen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.007004,
+              46.5978459
+            ],
+            [
+              8.0070065,
+              46.5975054
+            ],
+            [
+              8.0074736,
+              46.597507
+            ],
+            [
+              8.007471,
+              46.5978476
+            ],
+            [
+              8.007004,
+              46.5978459
+            ]
+          ]
+        ]
+      },
+      "id": "way/1450212164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451367707",
+        "access": "yes",
+        "area": "yes",
+        "direction": "NE",
+        "direction:ideal": "NE",
+        "ele": "2020m",
+        "free_flying:official": "no",
+        "free_flying:paragliding": "yes",
+        "free_flying:takeoff": "yes",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Ballehöchst",
+        "official_name": "Ballehöchst",
+        "source": "Syride",
+        "source:updated": "2025-11-17",
+        "source_ref": "https://www.syride.com//fr/sites/Balleh%C3%B6chst",
+        "sport": "free_flying",
+        "status": "active",
+        "website": "https://www.syride.com//fr/sites/Balleh%C3%B6chst"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8559402,
+              46.6302256
+            ],
+            [
+              7.8557893,
+              46.6304583
+            ],
+            [
+              7.8556136,
+              46.6303906
+            ],
+            [
+              7.8555274,
+              46.630251
+            ],
+            [
+              7.8559402,
+              46.6302256
+            ]
+          ]
+        ]
+      },
+      "id": "way/1451367707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451369129",
+        "access": "yes",
+        "area": "yes",
+        "direction": "W;NW",
+        "direction:ideal": "WNW",
+        "ele": "1770m",
+        "free_flying:official": "no",
+        "free_flying:paragliding": "yes",
+        "free_flying:takeoff": "yes",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Bäregg",
+        "official_name": "Bäregg",
+        "source": "Syride",
+        "source:updated": "2025-11-17",
+        "source_ref": "https://www.syride.com//fr/sites/B%C3%A4regg",
+        "sport": "free_flying",
+        "status": "active",
+        "website": "https://www.syride.com//fr/sites/B%C3%A4regg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.0603908,
+              46.6019436
+            ],
+            [
+              8.0602795,
+              46.6016202
+            ],
+            [
+              8.0606773,
+              46.6015555
+            ],
+            [
+              8.0607887,
+              46.6018789
+            ],
+            [
+              8.0603908,
+              46.6019436
+            ]
+          ]
+        ]
+      },
+      "id": "way/1451369129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124333",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "difficult_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8954032,
+            46.5508381
+          ],
+          [
+            7.89543,
+            46.5519521
+          ],
+          [
+            7.8957655,
+            46.5523145
+          ],
+          [
+            7.8953226,
+            46.5526231
+          ],
+          [
+            7.8960631,
+            46.553694
+          ],
+          [
+            7.8957261,
+            46.5544465
+          ],
+          [
+            7.8948126,
+            46.5555086
+          ]
+        ]
+      },
+      "id": "way/38124333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124334",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "demanding_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8942413,
+            46.5490545
+          ],
+          [
+            7.8950945,
+            46.5496168
+          ],
+          [
+            7.8952421,
+            46.5504087
+          ]
+        ]
+      },
+      "id": "way/38124334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124336",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "simple-suspension",
+        "cable_number": "3",
+        "highway": "via_ferrata",
+        "layer": "1",
+        "name": "Nepalbrücke (3 Seile)",
+        "sac_scale": "demanding_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8948126,
+            46.5555086
+          ],
+          [
+            7.8949603,
+            46.5557771
+          ]
+        ]
+      },
+      "id": "way/38124336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124337",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "simple-suspension",
+        "cable_number": "3",
+        "highway": "via_ferrata",
+        "layer": "1",
+        "name": "Nepalbrücke (3 Seile)",
+        "sac_scale": "demanding_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8952421,
+            46.5504087
+          ],
+          [
+            7.8954032,
+            46.5508381
+          ]
+        ]
+      },
+      "id": "way/38124337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124338",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "simple-suspension",
+        "cable_number": "4",
+        "handrail:left": "no",
+        "handrail:right": "yes",
+        "highway": "via_ferrata",
+        "layer": "1",
+        "name": "Hängebrücke (ein Halteseil)",
+        "sac_scale": "demanding_alpine_hiking",
+        "surface": "metal_grid",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8937585,
+            46.5484003
+          ],
+          [
+            7.8942413,
+            46.5490545
+          ]
+        ]
+      },
+      "id": "way/38124338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38124472",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "horse": "no",
+        "name": "Schwarzhorn - Klettersteig",
+        "sac_scale": "difficult_alpine_hiking",
+        "type": "via_ferrata",
+        "via_ferrata_scale": "1+"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0678004,
+            46.6827177
+          ],
+          [
+            8.0676777,
+            46.6827796
+          ],
+          [
+            8.0675372,
+            46.6829132
+          ],
+          [
+            8.0676666,
+            46.683078
+          ],
+          [
+            8.068275,
+            46.6834148
+          ],
+          [
+            8.0686421,
+            46.6834749
+          ],
+          [
+            8.068985,
+            46.6836074
+          ],
+          [
+            8.069076,
+            46.6836206
+          ],
+          [
+            8.0693555,
+            46.6836883
+          ],
+          [
+            8.0694698,
+            46.6837129
+          ],
+          [
+            8.0696624,
+            46.6838644
+          ],
+          [
+            8.0699537,
+            46.6839441
+          ],
+          [
+            8.0705889,
+            46.6842919
+          ],
+          [
+            8.0716324,
+            46.6846851
+          ],
+          [
+            8.0723105,
+            46.6847026
+          ],
+          [
+            8.0724286,
+            46.6847578
+          ],
+          [
+            8.0729751,
+            46.6848886
+          ],
+          [
+            8.0732833,
+            46.6850353
+          ],
+          [
+            8.0736486,
+            46.685018
+          ],
+          [
+            8.0740524,
+            46.6852787
+          ]
+        ]
+      },
+      "id": "way/38124472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43033824",
+        "climbing": "path",
+        "highway": "via_ferrata",
+        "name": "Klettersteig Rotstock",
+        "sac_scale": "difficult_alpine_hiking",
+        "via_ferrata_scale": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.9835394,
+            46.5784136
+          ],
+          [
+            7.9837318,
+            46.5782749
+          ],
+          [
+            7.9839491,
+            46.5781938
+          ],
+          [
+            7.9841384,
+            46.5781597
+          ],
+          [
+            7.9842624,
+            46.5779622
+          ],
+          [
+            7.9843045,
+            46.577858
+          ],
+          [
+            7.9846856,
+            46.5777526
+          ],
+          [
+            7.9848205,
+            46.5775992
+          ],
+          [
+            7.9852958,
+            46.5775463
+          ],
+          [
+            7.9857864,
+            46.577573
+          ],
+          [
+            7.9860068,
+            46.577477
+          ],
+          [
+            7.9854916,
+            46.5771997
+          ],
+          [
+            7.9850703,
+            46.5770297
+          ]
+        ]
+      },
+      "id": "way/43033824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43033826",
+        "highway": "via_ferrata",
+        "name": "Klettersteig Ostegghütte",
+        "sac_scale": "demanding_alpine_hiking",
+        "via_ferrata_scale": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0361323,
+            46.5997078
+          ],
+          [
+            8.036273,
+            46.5997687
+          ],
+          [
+            8.0362845,
+            46.5998627
+          ],
+          [
+            8.0363134,
+            46.6001342
+          ],
+          [
+            8.036273,
+            46.6002692
+          ],
+          [
+            8.0362922,
+            46.6002984
+          ],
+          [
+            8.0363462,
+            46.6003142
+          ],
+          [
+            8.0363751,
+            46.6002931
+          ],
+          [
+            8.0364136,
+            46.6002163
+          ],
+          [
+            8.0364522,
+            46.600011
+          ],
+          [
+            8.0364772,
+            46.6000508
+          ],
+          [
+            8.0365061,
+            46.6001368
+          ],
+          [
+            8.0365312,
+            46.6001938
+          ],
+          [
+            8.0366102,
+            46.6002613
+          ],
+          [
+            8.0366719,
+            46.6004718
+          ],
+          [
+            8.0366565,
+            46.6005685
+          ],
+          [
+            8.0366622,
+            46.6006969
+          ],
+          [
+            8.0367162,
+            46.600787
+          ],
+          [
+            8.0368106,
+            46.6008359
+          ],
+          [
+            8.0369706,
+            46.6008399
+          ],
+          [
+            8.0372134,
+            46.6008373
+          ],
+          [
+            8.0374986,
+            46.6008174
+          ],
+          [
+            8.0376528,
+            46.6008148
+          ],
+          [
+            8.0379207,
+            46.6008108
+          ],
+          [
+            8.038123,
+            46.6008306
+          ],
+          [
+            8.038308,
+            46.6008505
+          ],
+          [
+            8.0384892,
+            46.6008306
+          ],
+          [
+            8.0387089,
+            46.6007896
+          ],
+          [
+            8.0388168,
+            46.6007393
+          ],
+          [
+            8.0388476,
+            46.6006228
+          ],
+          [
+            8.0388592,
+            46.6004599
+          ],
+          [
+            8.0389478,
+            46.6003275
+          ],
+          [
+            8.0391425,
+            46.6001938
+          ],
+          [
+            8.0393506,
+            46.6001434
+          ],
+          [
+            8.0395799,
+            46.6000839
+          ],
+          [
+            8.0398883,
+            46.6000772
+          ],
+          [
+            8.0400155,
+            46.6000706
+          ],
+          [
+            8.0403354,
+            46.6000163
+          ],
+          [
+            8.0406437,
+            46.5998839
+          ],
+          [
+            8.0409482,
+            46.5998932
+          ],
+          [
+            8.0411544,
+            46.599966
+          ],
+          [
+            8.0412931,
+            46.6001223
+          ],
+          [
+            8.0413336,
+            46.6003328
+          ]
+        ]
+      },
+      "id": "way/43033826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450238274",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "difficult_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8962851,
+            46.5593898
+          ],
+          [
+            7.8965171,
+            46.5590786
+          ],
+          [
+            7.8960474,
+            46.5579781
+          ],
+          [
+            7.8960386,
+            46.5568233
+          ],
+          [
+            7.8958997,
+            46.5560321
+          ],
+          [
+            7.8949603,
+            46.5557771
+          ]
+        ]
+      },
+      "id": "way/450238274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/952445992",
+        "highway": "via_ferrata",
+        "name": "Klettersteig Rotstock",
+        "sac_scale": "alpine_hiking",
+        "via_ferrata_scale": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.9850703,
+            46.5770297
+          ],
+          [
+            7.9847374,
+            46.5771698
+          ],
+          [
+            7.984365,
+            46.5773383
+          ],
+          [
+            7.9841901,
+            46.5774011
+          ]
+        ]
+      },
+      "id": "way/952445992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/953103647",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "demanding_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8943084,
+            46.5476614
+          ],
+          [
+            7.8944384,
+            46.5478208
+          ],
+          [
+            7.8942758,
+            46.5480869
+          ],
+          [
+            7.8937585,
+            46.5484003
+          ]
+        ]
+      },
+      "id": "way/953103647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1111057213",
+        "alt_name": "Fründenschnur mit Zürcherschnyda",
+        "highway": "via_ferrata",
+        "layer": "1",
+        "name": "Klettersteig Zürcherschnyda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7426758,
+            46.4888847
+          ],
+          [
+            7.7427646,
+            46.4888404
+          ],
+          [
+            7.7428882,
+            46.4887949
+          ],
+          [
+            7.7429717,
+            46.48885
+          ],
+          [
+            7.7430204,
+            46.4888943
+          ],
+          [
+            7.7430674,
+            46.488874
+          ],
+          [
+            7.743198,
+            46.4887398
+          ],
+          [
+            7.7433929,
+            46.48859
+          ],
+          [
+            7.7435164,
+            46.4885253
+          ],
+          [
+            7.7436557,
+            46.4885001
+          ],
+          [
+            7.7437531,
+            46.488457
+          ],
+          [
+            7.7439864,
+            46.4883911
+          ],
+          [
+            7.7442022,
+            46.4883024
+          ],
+          [
+            7.7442996,
+            46.4882593
+          ],
+          [
+            7.744458,
+            46.488324
+          ],
+          [
+            7.7445833,
+            46.4883264
+          ],
+          [
+            7.7447626,
+            46.4882808
+          ],
+          [
+            7.7451054,
+            46.4882089
+          ],
+          [
+            7.7454605,
+            46.4881921
+          ],
+          [
+            7.7457825,
+            46.4879573
+          ],
+          [
+            7.7459217,
+            46.4877823
+          ],
+          [
+            7.7459426,
+            46.4876949
+          ],
+          [
+            7.7460731,
+            46.4875511
+          ],
+          [
+            7.7463185,
+            46.487442
+          ],
+          [
+            7.7468006,
+            46.4872287
+          ],
+          [
+            7.7468894,
+            46.4873006
+          ],
+          [
+            7.7472931,
+            46.4871436
+          ],
+          [
+            7.7475211,
+            46.4871221
+          ],
+          [
+            7.7477857,
+            46.4871221
+          ],
+          [
+            7.7479057,
+            46.4870897
+          ],
+          [
+            7.7484975,
+            46.48662
+          ],
+          [
+            7.7489378,
+            46.4864462
+          ],
+          [
+            7.7491292,
+            46.4863216
+          ],
+          [
+            7.7492406,
+            46.4863492
+          ],
+          [
+            7.749352,
+            46.4862988
+          ],
+          [
+            7.7494356,
+            46.4861047
+          ],
+          [
+            7.7494878,
+            46.4858639
+          ],
+          [
+            7.7497802,
+            46.4857884
+          ],
+          [
+            7.7500186,
+            46.4856793
+          ],
+          [
+            7.7500952,
+            46.4856398
+          ],
+          [
+            7.7500169,
+            46.4856194
+          ],
+          [
+            7.7499055,
+            46.4856278
+          ],
+          [
+            7.7496705,
+            46.4856458
+          ],
+          [
+            7.7495539,
+            46.4856134
+          ],
+          [
+            7.7493677,
+            46.4855691
+          ],
+          [
+            7.7491971,
+            46.485454
+          ],
+          [
+            7.7491153,
+            46.4852611
+          ],
+          [
+            7.7488438,
+            46.4852048
+          ],
+          [
+            7.7487168,
+            46.4851928
+          ],
+          [
+            7.7486071,
+            46.4851269
+          ],
+          [
+            7.7484992,
+            46.4850178
+          ],
+          [
+            7.7484662,
+            46.4850142
+          ],
+          [
+            7.748313,
+            46.4850634
+          ],
+          [
+            7.7481233,
+            46.4850046
+          ],
+          [
+            7.7480067,
+            46.484922
+          ],
+          [
+            7.747904,
+            46.4847506
+          ],
+          [
+            7.7478605,
+            46.4845361
+          ],
+          [
+            7.7476952,
+            46.4843695
+          ],
+          [
+            7.7476081,
+            46.4842593
+          ],
+          [
+            7.7473384,
+            46.4840915
+          ],
+          [
+            7.7472479,
+            46.4841155
+          ],
+          [
+            7.7471121,
+            46.4842293
+          ],
+          [
+            7.7469955,
+            46.4842617
+          ],
+          [
+            7.7467832,
+            46.4842557
+          ],
+          [
+            7.7466492,
+            46.4842185
+          ],
+          [
+            7.7465012,
+            46.484046
+          ],
+          [
+            7.7464682,
+            46.4839645
+          ],
+          [
+            7.7462645,
+            46.4838267
+          ],
+          [
+            7.7461062,
+            46.483738
+          ],
+          [
+            7.7459252,
+            46.4837188
+          ],
+          [
+            7.7456867,
+            46.4837308
+          ],
+          [
+            7.7454205,
+            46.483714
+          ],
+          [
+            7.7452499,
+            46.4836637
+          ],
+          [
+            7.7450811,
+            46.4835175
+          ],
+          [
+            7.7446877,
+            46.4831148
+          ],
+          [
+            7.7446025,
+            46.4830537
+          ],
+          [
+            7.7442787,
+            46.4830657
+          ],
+          [
+            7.7441778,
+            46.4830249
+          ],
+          [
+            7.7440612,
+            46.482826
+          ],
+          [
+            7.7438663,
+            46.4827505
+          ],
+          [
+            7.7436992,
+            46.4827433
+          ],
+          [
+            7.743506,
+            46.4827289
+          ],
+          [
+            7.7432044,
+            46.4828307
+          ]
+        ]
+      },
+      "id": "way/1111057213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156335147",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "difficult_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8960666,
+            46.5595127
+          ],
+          [
+            7.8962851,
+            46.5593898
+          ]
+        ]
+      },
+      "id": "way/1156335147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156335148",
+        "bicycle": "no",
+        "highway": "via_ferrata",
+        "name": "Mürreflue - Klettersteig",
+        "sac_scale": "difficult_alpine_hiking",
+        "via_ferrata_scale": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8958172,
+            46.5594345
+          ],
+          [
+            7.8960666,
+            46.5595127
+          ]
+        ]
+      },
+      "id": "way/1156335148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307899549",
+        "highway": "via_ferrata",
+        "name": "Rock Metal Climbing (B/C)",
+        "sac_scale": "difficult_alpine_hiking"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.9145147,
+            46.4536986
+          ],
+          [
+            7.9144562,
+            46.4537206
+          ],
+          [
+            7.9144521,
+            46.4537603
+          ],
+          [
+            7.9143943,
+            46.4537942
+          ],
+          [
+            7.9144065,
+            46.4538421
+          ],
+          [
+            7.9143708,
+            46.4539022
+          ],
+          [
+            7.9142986,
+            46.4539573
+          ],
+          [
+            7.9143539,
+            46.4539872
+          ],
+          [
+            7.9143172,
+            46.4540143
+          ],
+          [
+            7.9143243,
+            46.4540693
+          ],
+          [
+            7.9143095,
+            46.4541338
+          ],
+          [
+            7.914304,
+            46.4542087
+          ],
+          [
+            7.9142768,
+            46.4542621
+          ],
+          [
+            7.9143484,
+            46.4543158
+          ],
+          [
+            7.9143759,
+            46.4543645
+          ],
+          [
+            7.914382,
+            46.4543982
+          ],
+          [
+            7.9143793,
+            46.4544726
+          ],
+          [
+            7.9144248,
+            46.4544915
+          ],
+          [
+            7.9144348,
+            46.4545725
+          ],
+          [
+            7.9144061,
+            46.4546504
+          ],
+          [
+            7.914383,
+            46.4547355
+          ],
+          [
+            7.9144005,
+            46.4548139
+          ],
+          [
+            7.9143676,
+            46.4548615
+          ],
+          [
+            7.9143774,
+            46.4549107
+          ],
+          [
+            7.9143797,
+            46.4549688
+          ]
+        ]
+      },
+      "id": "way/1307899549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307900074",
+        "highway": "via_ferrata",
+        "name": "Rock Metal Climbing (B/C)",
+        "sac_scale": "difficult_alpine_hiking"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.9147598,
+            46.453336
+          ],
+          [
+            7.914809,
+            46.4534493
+          ],
+          [
+            7.9147148,
+            46.4534892
+          ],
+          [
+            7.9146052,
+            46.4534706
+          ],
+          [
+            7.9145602,
+            46.4535263
+          ],
+          [
+            7.9144894,
+            46.4535112
+          ]
+        ]
+      },
+      "id": "way/1307900074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307900075",
+        "bridge": "yes",
+        "bridge:structure": "simple-suspension",
+        "highway": "via_ferrata",
+        "layer": "1",
+        "name": "Seilbrücke (B/C)",
+        "sac_scale": "difficult_alpine_hiking"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.9144894,
+            46.4535112
+          ],
+          [
+            7.9145147,
+            46.4536986
+          ]
+        ]
+      },
+      "id": "way/1307900075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299398630",
+        "free_flying:site": "landing",
+        "leisure": "pitch",
+        "name": "Landeplatz Stechelberg",
+        "source": "survey",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.902635,
+          46.5563913
+        ]
+      },
+      "id": "node/299398630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299901014",
+        "free_flying:site": "takeoff",
+        "name": "Pfingstegg",
+        "source": "survey",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.056452,
+          46.6160491
+        ]
+      },
+      "id": "node/299901014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300555436",
+        "ele": "1950",
+        "free_flying:site": "takeoff",
+        "leisure": "pitch",
+        "name": "Schreckfeld",
+        "source": "survey",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0649748,
+          46.6580429
+        ]
+      },
+      "id": "node/300555436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873470974",
+        "free_flying:site": "landing",
+        "name": "Bodmi",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0431641,
+          46.6286841
+        ]
+      },
+      "id": "node/1873470974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876537606",
+        "climbing:grade:uiaa:max": "7",
+        "climbing:grade:uiaa:min": "5-",
+        "climbing:length": "25",
+        "climbing:orientation": "S",
+        "climbing:rock": "limestone",
+        "climbing:routes": "11",
+        "name": "Klettergarten Eigergletscher",
+        "outdoor": "yes",
+        "sport": "climbing",
+        "website": "https://www.kletterschule.ch/topos/eigergletscher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9767116,
+          46.575653
+        ]
+      },
+      "id": "node/1876537606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2047681458",
+        "name": "Paragliding Interlaken",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8614927,
+          46.6881259
+        ]
+      },
+      "id": "node/2047681458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5731617818",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0839751,
+          46.6310695
+        ]
+      },
+      "id": "node/5731617818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7588365206",
+        "name": "Harder",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8433781,
+          46.691736
+        ]
+      },
+      "id": "node/7588365206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889052172",
+        "climbing": "route",
+        "climbing:bolted": "yes",
+        "climbing:grade:french": "5c+",
+        "climbing:orientation": "E",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "name": "Bergweg",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8596675,
+          46.6572328
+        ]
+      },
+      "id": "node/9889052172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10305018904",
+        "fee": "no",
+        "name": "Klettergarten Gletscherschlucht",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.047097,
+          46.6138501
+        ]
+      },
+      "id": "node/10305018904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559253491",
+        "climbing": "route",
+        "climbing:grade:french": "7a+",
+        "climbing:length": "20",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Rosekavalier",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7783553,
+          46.6873791
+        ]
+      },
+      "id": "node/11559253491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11762167342",
+        "addr:street": "Interlaken Landing Field",
+        "description": "Will drive to/from accommodation or Train station.",
+        "leisure": "sports_centre",
+        "mobile": "+41 79 770 07 04",
+        "name": "Hang Gliding Interlaken",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "sport": "free_flying",
+        "website": "https://www.hangglidinginterlaken.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8613135,
+          46.6846574
+        ]
+      },
+      "id": "node/11762167342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11917930042",
+        "climbing": "route",
+        "climbing:bolted": "yes",
+        "climbing:grade:french": "7a",
+        "climbing:orientation": "E",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "name": "Bomber",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8595758,
+          46.6576291
+        ]
+      },
+      "id": "node/11917930042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11963131078",
+        "free_flying:official": "no",
+        "free_flying:site": "takeoff",
+        "name": "Startplatz Blüemlisalphütte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7717643,
+          46.5097932
+        ]
+      },
+      "id": "node/11963131078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060765169",
+        "contact:facebook": "paraglding.interlaken",
+        "contact:instagram": "paraglidinginterlaken",
+        "contact:twitter": "ParaglidingInti",
+        "email": "mail@paragliding-interlaken.ch",
+        "name": "Paragliding Interlaken",
+        "phone": "+41 33 823 82 33",
+        "shop": "travel_agency",
+        "sport": "free_flying",
+        "website": "https://paragliding-interlaken.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8619073,
+          46.6883585
+        ]
+      },
+      "id": "node/12060765169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524761",
+        "climbing": "route",
+        "climbing:grade:french": "6c",
+        "climbing:length": "20",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Protest",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7783927,
+          46.6873697
+        ]
+      },
+      "id": "node/12467524761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524762",
+        "climbing": "route",
+        "climbing:grade:french": "6c",
+        "climbing:length": "20",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Pilgerweg",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7783726,
+          46.6873741
+        ]
+      },
+      "id": "node/12467524762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524763",
+        "climbing": "route",
+        "climbing:grade:french": "7c+",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Octopussy",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7786577,
+          46.6872199
+        ]
+      },
+      "id": "node/12467524763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524764",
+        "climbing": "route",
+        "climbing:grade:french": "7b",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Koralle",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7786227,
+          46.6872363
+        ]
+      },
+      "id": "node/12467524764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524765",
+        "climbing": "route",
+        "climbing:grade:french": "7b+",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Seestern",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7785929,
+          46.6872568
+        ]
+      },
+      "id": "node/12467524765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524766",
+        "climbing": "route",
+        "climbing:grade:french": "7b+",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Drachenzahn",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7788766,
+          46.6871195
+        ]
+      },
+      "id": "node/12467524766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524767",
+        "climbing": "route",
+        "climbing:grade:french": "7b",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Netti",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7789045,
+          46.6871124
+        ]
+      },
+      "id": "node/12467524767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524769",
+        "climbing": "route",
+        "climbing:grade:french": "7c+",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Leiterlispiel",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7795335,
+          46.6867831
+        ]
+      },
+      "id": "node/12467524769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524770",
+        "climbing": "route",
+        "climbing:grade:french": "8a",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Beat(e)us(e)",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7795718,
+          46.6867648
+        ]
+      },
+      "id": "node/12467524770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12467524784",
+        "climbing": "route",
+        "climbing:grade:french": "7b+",
+        "climbing:orientation": "S",
+        "climbing:pitches": "1",
+        "climbing:quality": "solid",
+        "climbing:rock": "limestone",
+        "climbing:sport": "yes",
+        "climbing:toprope": "no",
+        "name": "Hoffnigslose Optimist",
+        "outdoor": "yes",
+        "sport": "climbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7794895,
+          46.6867964
+        ]
+      },
+      "id": "node/12467524784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12565499023",
+        "free_flying:site": "takeoff",
+        "name": "Schreckhornhütte Takeoff",
+        "sport": "free_flying"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.099364,
+          46.5823322
+        ]
+      },
+      "id": "node/12565499023"
+    }
+  ]
+}
