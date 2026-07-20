@@ -1,0 +1,2850 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-18T21:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260938019",
+        "addr:city": "Trümmelbach",
+        "addr:country": "CH",
+        "addr:postcode": "3824",
+        "contact:email": "info@truemmelbachfaelle.ch",
+        "contact:fax": "+41 33 855 32 32",
+        "contact:phone": "+41 33 855 32 32",
+        "contact:website": "https://www.truemmelbachfaelle.ch",
+        "fee": "yes",
+        "name": "Trümmelbachfälle",
+        "name:ru": "Трюммилбах",
+        "opening_hours": "Apr-Jun, Sep-Nov Mo-Su 09:00-17:00; Jul-Aug Mo-Su 08:30-18:00",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q38141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9132073,
+          46.5700065
+        ]
+      },
+      "id": "node/260938019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283712051",
+        "created_by": "Potlatch 0.10b",
+        "name": "Staubbachbänkli",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9203068,
+          46.592831
+        ]
+      },
+      "id": "node/283712051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283729272",
+        "ele": "1526",
+        "name": "Leiterhorn",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9136228,
+          46.6209753
+        ]
+      },
+      "id": "node/283729272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303186649",
+        "historic": "quarry",
+        "name": "Marmorbruch",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0491897,
+          46.6139172
+        ]
+      },
+      "id": "node/303186649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303188563",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9412651,
+          46.6112938
+        ]
+      },
+      "id": "node/303188563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370122267",
+        "name": "Heimwehfluh",
+        "tourism": "viewpoint",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849904,
+          46.6755099
+        ]
+      },
+      "id": "node/370122267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370270732",
+        "camera:type": "panning",
+        "contact:webcam": "https://www.jungfrau.ch/webcams/top-of-europe-jungfraujoch/#/",
+        "description": "360° Panorama Webcam auf dem Jungfraujoch 3454 Meter über Meer",
+        "ele": "3454",
+        "man_made": "surveillance",
+        "name": "Panorama-Webcam Jungfraujoch",
+        "surveillance": "webcam",
+        "surveillance:type": "camera",
+        "tourism": "viewpoint",
+        "website": "https://www.jungfrau.ch/de-ch/live/webcams/#webcam-jungfraujoch-top-of-europe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9808853,
+          46.5474611
+        ]
+      },
+      "id": "node/370270732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391448441",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8622554,
+          46.6934885
+        ]
+      },
+      "id": "node/391448441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463316098",
+        "tourism": "viewpoint",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8595778,
+          46.6867473
+        ]
+      },
+      "id": "node/463316098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472680951",
+        "direction": "0;90;180;270",
+        "name": "Schilthorn",
+        "tourism": "viewpoint",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8347037,
+          46.5573721
+        ]
+      },
+      "id": "node/472680951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474703916",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0878747,
+          46.6553269
+        ]
+      },
+      "id": "node/474703916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474703917",
+        "description": "Ausgesetzte Stelle!",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0773843,
+          46.6506902
+        ]
+      },
+      "id": "node/474703917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474731288",
+        "tourism": "viewpoint",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9609915,
+          46.5891168
+        ]
+      },
+      "id": "node/474731288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474739698",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8888348,
+          46.6281628
+        ]
+      },
+      "id": "node/474739698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474774707",
+        "name": "Daube",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9070133,
+          46.6560874
+        ]
+      },
+      "id": "node/474774707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474774710",
+        "ele": "2069",
+        "name": "Oberberghorn",
+        "natural": "peak",
+        "tourism": "viewpoint",
+        "wikidata": "Q22419426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9137003,
+          46.6591874
+        ]
+      },
+      "id": "node/474774710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477198841",
+        "name": "Hohbühl",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8625202,
+          46.6908659
+        ]
+      },
+      "id": "node/477198841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495077298",
+        "castle_type": "defensive",
+        "castle_type:de": "burgruine",
+        "historic": "castle",
+        "name": "Ruine Rotenfluh",
+        "ruins": "yes",
+        "tourism": "attraction",
+        "wikidata": "Q67772034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8644699,
+          46.6533468
+        ]
+      },
+      "id": "node/495077298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/500258088",
+        "historic": "memorial",
+        "name": "Grabstätte Rappard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8580316,
+          46.6728419
+        ]
+      },
+      "id": "node/500258088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599932617",
+        "historic": "memorial",
+        "name": "General Guisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8624997,
+          46.6877473
+        ]
+      },
+      "id": "node/599932617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599933690",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Adolf Guyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8661568,
+          46.6900898
+        ]
+      },
+      "id": "node/599933690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708874678",
+        "historic": "ruins",
+        "name": "Schmelzofen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9039651,
+          46.6213413
+        ]
+      },
+      "id": "node/708874678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/759930032",
+        "description": "Modelleisenbahn",
+        "name": "Modelleisenbahn",
+        "name:cs": "Modelové kolejiště",
+        "opening_hours": "Apr-Oct 10:30-17:00",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85018,
+          46.6757927
+        ]
+      },
+      "id": "node/759930032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793571809",
+        "direction": "170",
+        "name": "Aussichtspunkt Pochtenfall",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7698449,
+          46.6213388
+        ]
+      },
+      "id": "node/793571809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/846190974",
+        "name": "Hardermandli",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8568436,
+          46.6960518
+        ]
+      },
+      "id": "node/846190974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904443657",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0236819,
+          46.6330481
+        ]
+      },
+      "id": "node/904443657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904443762",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0270204,
+          46.6443707
+        ]
+      },
+      "id": "node/904443762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/929038153",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9028999,
+          46.5892244
+        ]
+      },
+      "id": "node/929038153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/948595022",
+        "height": "297",
+        "name": "Staubbachfall",
+        "name:de": "Staubbachfall",
+        "name:es": "Cascada de Staubbach",
+        "name:zh": "施陶河瀑布",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "website": "https://lauterbrunnen.swiss/de/sommer/sehen-und-erleben/ausfluege/ausflugsziele/staubbach-wasserfall/",
+        "wheelchair": "no",
+        "wikidata": "Q686835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.905429,
+          46.589776
+        ]
+      },
+      "id": "node/948595022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/950766435",
+        "source": "survey",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8941004,
+          46.699252
+        ]
+      },
+      "id": "node/950766435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1408362963",
+        "name": "Tanzbödeli",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8878819,
+          46.5270476
+        ]
+      },
+      "id": "node/1408362963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1408514163",
+        "access": "yes",
+        "historic": "ruins",
+        "name": "Bergwerkruine",
+        "ruins": "building",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9017481,
+          46.5238943
+        ]
+      },
+      "id": "node/1408514163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1455154156",
+        "attraction": "bungee_jumping",
+        "name": "Canyon Swing",
+        "tourism": "attraction",
+        "website": "https://blog.outdoor.ch/2024/04/23/canyon-swing/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0483416,
+          46.6135267
+        ]
+      },
+      "id": "node/1455154156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1457289465",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8897042,
+          46.5720047
+        ]
+      },
+      "id": "node/1457289465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676930184",
+        "source": "survey",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9287544,
+          46.6671594
+        ]
+      },
+      "id": "node/1676930184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770781643",
+        "designation": "Aussichtspunkt Aellfluh",
+        "name": "Aussichtspunkt Aellfluh",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0263828,
+          46.6350255
+        ]
+      },
+      "id": "node/1770781643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1813085650",
+        "designation": "Holenwang",
+        "name": "Holenwang (Alp)",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0244299,
+          46.646279
+        ]
+      },
+      "id": "node/1813085650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814263785",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0284683,
+          46.630626
+        ]
+      },
+      "id": "node/1814263785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1833966129",
+        "historic": "vehicle",
+        "name": "Wetterhornlift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0714584,
+          46.6321616
+        ]
+      },
+      "id": "node/1833966129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1833978091",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9193465,
+          46.6071869
+        ]
+      },
+      "id": "node/1833978091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876515568",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.011052,
+          46.5949547
+        ]
+      },
+      "id": "node/1876515568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1960962554",
+        "direction": "180",
+        "name": "Wachtfeuer",
+        "source": "survey",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8841916,
+          46.6953245
+        ]
+      },
+      "id": "node/1960962554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1989415637",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8370743,
+          46.6915751
+        ]
+      },
+      "id": "node/1989415637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043516438",
+        "direction": "200",
+        "name": "Schibeflue",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8479229,
+          46.6898792
+        ]
+      },
+      "id": "node/2043516438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043641880",
+        "name": "Pavillon Lustbühl",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.854415,
+          46.6903159
+        ]
+      },
+      "id": "node/2043641880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2101913466",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9617898,
+          46.5854077
+        ]
+      },
+      "id": "node/2101913466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102917178",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0535835,
+          46.6592149
+        ]
+      },
+      "id": "node/2102917178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102917199",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0530379,
+          46.6603244
+        ]
+      },
+      "id": "node/2102917199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2123811689",
+        "castle_type": "stately",
+        "historic": "castle",
+        "historic:civilization": "medieval",
+        "name": "Schloss Interlaken",
+        "name:zh": "因特拉肯城堡",
+        "wikidata": "Q2241722",
+        "wikipedia": "de:Schloss Interlaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8637349,
+          46.6872481
+        ]
+      },
+      "id": "node/2123811689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2237565063",
+        "amenity": "clock",
+        "check_date": "2022-08-01",
+        "display": "analog",
+        "name": "Blumenuhr",
+        "support": "ground",
+        "tourism": "attraction",
+        "visibility": "street",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8589408,
+          46.687798
+        ]
+      },
+      "id": "node/2237565063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344972001",
+        "historic": "wayside_cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9196796,
+          46.603335
+        ]
+      },
+      "id": "node/2344972001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356347197",
+        "tourism": "viewpoint",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98099,
+          46.5477108
+        ]
+      },
+      "id": "node/2356347197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459015118",
+        "name": "Nautilus",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8782056,
+          46.6822024
+        ]
+      },
+      "id": "node/2459015118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459015276",
+        "name": "Shuttle",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8780334,
+          46.6820865
+        ]
+      },
+      "id": "node/2459015276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087536399",
+        "name": "Eispalast",
+        "name:cs": "Ledovcový palác",
+        "name:de": "Eispalast",
+        "name:en": "Ice Palace",
+        "name:ru": "Ледовый Дворец",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9811106,
+          46.5479303
+        ]
+      },
+      "id": "node/3087536399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087536664",
+        "historic": "memorial",
+        "layer": "-1",
+        "name": "A. Guyer-Zeller",
+        "name:de": "A. Guyer-Zeller",
+        "name:ja": "アドルフ・グイヤー・ツェラー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9824843,
+          46.5473478
+        ]
+      },
+      "id": "node/3087536664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087581975",
+        "tourism": "viewpoint",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9848211,
+          46.5474636
+        ]
+      },
+      "id": "node/3087581975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3091527153",
+        "name": "High Ultimate Basejump",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8967048,
+          46.5600482
+        ]
+      },
+      "id": "node/3091527153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3142139154",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9456307,
+          46.5859936
+        ]
+      },
+      "id": "node/3142139154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508776256",
+        "historic": "memorial",
+        "inscription": "FERDINAND HODLER 1853 - 1918 Der Maler verbrachte seine Sommer- aufenthalte zwischen 1878- 1916 oft in Leissigen und arbeitete an seinen Landschaftsbildern. 1904 malte er von dieser Stelle das erste Bild der Reihe \"Landschaften am Thunersee\".",
+        "name": "Hodler-Gedenkstätte",
+        "subject:wikidata": "Q214564",
+        "year_of_construction": "1953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7858159,
+          46.6523139
+        ]
+      },
+      "id": "node/3508776256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3545097845",
+        "name": "BKW Aussichtspunkt",
+        "tourism": "viewpoint",
+        "tourism_1": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8449663,
+          46.6722173
+        ]
+      },
+      "id": "node/3545097845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3742659781",
+        "source": "GPS",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9200001,
+          46.5782738
+        ]
+      },
+      "id": "node/3742659781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3922530439",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0494618,
+          46.612421
+        ]
+      },
+      "id": "node/3922530439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329455433",
+        "name": "Haberelegi",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7532912,
+          46.6965515
+        ]
+      },
+      "id": "node/4329455433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329468710",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9380193,
+          46.6180997
+        ]
+      },
+      "id": "node/4329468710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340037361",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8933952,
+          46.5164999
+        ]
+      },
+      "id": "node/4340037361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358669173",
+        "description": "View to Schreckkorn",
+        "ele": "1808",
+        "name": "Bänisegg",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0676211,
+          46.5907548
+        ]
+      },
+      "id": "node/4358669173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361655612",
+        "name": "First Cliff Walk by Tissot",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0533432,
+          46.6598969
+        ]
+      },
+      "id": "node/4361655612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4369528008",
+        "description": "View to Gutzgletscher & Wetterhorn",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0814895,
+          46.6535432
+        ]
+      },
+      "id": "node/4369528008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4392977489",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Brunnen",
+        "name:de": "Brunnen",
+        "name:fr": "Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8650343,
+          46.6784873
+        ]
+      },
+      "id": "node/4392977489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492254815",
+        "description": "Jungfrau Winnercard Photopoint: Knipsen Sie Ihre Action-, Erinnerungs- und Familienfotos an einem der Fotopoints in der Jungfrau Ski Region.",
+        "name": "Photopoint Männlichen Grindelwald - Wengen",
+        "tourism": "attraction",
+        "website": "https://www.jungfrauwinnercard.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9424195,
+          46.6129134
+        ]
+      },
+      "id": "node/4492254815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681663989",
+        "name": "路徑",
+        "name:en": "path",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9323807,
+          46.666205
+        ]
+      },
+      "id": "node/4681663989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705483195",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9867297,
+          46.6456762
+        ]
+      },
+      "id": "node/4705483195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707827444",
+        "name": "Sätteli",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8518313,
+          46.6691106
+        ]
+      },
+      "id": "node/4707827444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708423092",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7656425,
+          46.6840431
+        ]
+      },
+      "id": "node/4708423092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708433289",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7606512,
+          46.6825893
+        ]
+      },
+      "id": "node/4708433289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4901087275",
+        "height": "265",
+        "name": "Spissbachfall",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9039469,
+          46.583303
+        ]
+      },
+      "id": "node/4901087275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916171079",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9136932,
+          46.6591996
+        ]
+      },
+      "id": "node/4916171079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920136968",
+        "description:de": "Aussicht auf Grindelwald",
+        "description:en": "The view of Grindelwald",
+        "direction": "300",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0560159,
+          46.6168068
+        ]
+      },
+      "id": "node/4920136968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975495924",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9215934,
+          46.5912354
+        ]
+      },
+      "id": "node/4975495924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975519521",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9164094,
+          46.5673975
+        ]
+      },
+      "id": "node/4975519521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998557598",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0530038,
+          46.6603259
+        ]
+      },
+      "id": "node/4998557598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998557603",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0531233,
+          46.6600835
+        ]
+      },
+      "id": "node/4998557603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998561029",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0532303,
+          46.659118
+        ]
+      },
+      "id": "node/4998561029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5011058921",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7666679,
+          46.4592319
+        ]
+      },
+      "id": "node/5011058921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5429656798",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.956617,
+          46.653231
+        ]
+      },
+      "id": "node/5429656798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795847160",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7747534,
+          46.6529846
+        ]
+      },
+      "id": "node/5795847160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076860238",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8615707,
+          46.693902
+        ]
+      },
+      "id": "node/6076860238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6292468019",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.923568,
+          46.530517
+        ]
+      },
+      "id": "node/6292468019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6292525192",
+        "description": "Possibly the view point of a print by Gabriel Lory le fils / Mathias Gabriel Lory, \"Vue de la Cascade du Schmadribach au fond de la Vallée de Lauterbrunnen\n1822\". \nView towards the Breithorn.\nAdd snow cap & glacier loss since 1822.",
+        "direction": "205",
+        "ele": "1570",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.914651,
+          46.5329639
+        ]
+      },
+      "id": "node/6292525192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6379549722",
+        "direction": "-30",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7520466,
+          46.6954017
+        ]
+      },
+      "id": "node/6379549722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6379614300",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8917623,
+          46.6036406
+        ]
+      },
+      "id": "node/6379614300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6609151744",
+        "name": "Abbachfall",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0126453,
+          46.6395363
+        ]
+      },
+      "id": "node/6609151744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655578457",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8876956,
+          46.5640817
+        ]
+      },
+      "id": "node/6655578457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6661753946",
+        "historic": "monument",
+        "name": "Bovy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769275,
+          46.535111
+        ]
+      },
+      "id": "node/6661753946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6723073585",
+        "direction": "315",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9341957,
+          46.5784856
+        ]
+      },
+      "id": "node/6723073585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6757958917",
+        "amenity": "bench",
+        "backrest": "no",
+        "material": "wood",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8498397,
+          46.5494047
+        ]
+      },
+      "id": "node/6757958917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7734513032",
+        "amenity": "bench",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9311544,
+          46.6146059
+        ]
+      },
+      "id": "node/7734513032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7745067588",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0384482,
+          46.6059799
+        ]
+      },
+      "id": "node/7745067588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7749779836",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9101339,
+          46.6165841
+        ]
+      },
+      "id": "node/7749779836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7749824731",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8574969,
+          46.642768
+        ]
+      },
+      "id": "node/7749824731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841132763",
+        "direction": "305",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9213577,
+          46.5805998
+        ]
+      },
+      "id": "node/7841132763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7872177285",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8904959,
+          46.5144988
+        ]
+      },
+      "id": "node/7872177285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906526948",
+        "date": "1865-06-21",
+        "historic": "memorial",
+        "inscription": "IN MEMORY OF \nALICE CHARLOTTE \nWIFE OF \nCAPT. M. ARBUTHNOT. XIV. HUSSARS \nDAUGHTER OF GEORGE LORD RIVERS \nKILLED BY LIGHTNING \nON THE SCHILTHORN ALP \n21. JUNE 1865 \nAGED 23 \nMEMORIAL PLAQUE RE-ERECTED 1990\nSCHILTHORNBAHN",
+        "inscription:language": "en",
+        "material": "stone",
+        "memorial": "plaque",
+        "name": "Alice Charlotte Arbuthnot",
+        "openplaques:id": "54196",
+        "start_date": "1990",
+        "subject": "Alice Charlotte Pitt-Rivers (1842-1865)",
+        "subject:wikidata": "Q75409977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8418771,
+          46.5587494
+        ]
+      },
+      "id": "node/7906526948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8442785599",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0104843,
+          46.5723007
+        ]
+      },
+      "id": "node/8442785599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8442785600",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0034144,
+          46.581505
+        ]
+      },
+      "id": "node/8442785600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8464311749",
+        "direction": "240",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8796581,
+          46.6964381
+        ]
+      },
+      "id": "node/8464311749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739889308",
+        "direction": "N",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8217406,
+          46.660516
+        ]
+      },
+      "id": "node/8739889308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8743466150",
+        "direction": "NE",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7984952,
+          46.6558888
+        ]
+      },
+      "id": "node/8743466150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8747497933",
+        "direction": "N",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7684577,
+          46.6453855
+        ]
+      },
+      "id": "node/8747497933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8747497967",
+        "direction": "N",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7777944,
+          46.6473593
+        ]
+      },
+      "id": "node/8747497967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8761656316",
+        "direction": "290",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7858067,
+          46.6522796
+        ]
+      },
+      "id": "node/8761656316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829507488",
+        "direction": "SE",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8905035,
+          46.514477
+        ]
+      },
+      "id": "node/8829507488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8943897617",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0488885,
+          46.6630328
+        ]
+      },
+      "id": "node/8943897617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8943897618",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9257168,
+          46.6652856
+        ]
+      },
+      "id": "node/8943897618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8943897717",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0464598,
+          46.6641529
+        ]
+      },
+      "id": "node/8943897717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8943897817",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0192577,
+          46.6716224
+        ]
+      },
+      "id": "node/8943897817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8943897818",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9211514,
+          46.6630006
+        ]
+      },
+      "id": "node/8943897818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8956550351",
+        "direction": "130",
+        "name": "Schilthorn",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.835335,
+          46.5571736
+        ]
+      },
+      "id": "node/8956550351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8956605494",
+        "direction": "130",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8956496,
+          46.5604838
+        ]
+      },
+      "id": "node/8956605494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8956605495",
+        "direction": "110",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8970998,
+          46.5619893
+        ]
+      },
+      "id": "node/8956605495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8962163995",
+        "direction": "180",
+        "name": "Zwei-Seen-Steg",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8516214,
+          46.6971529
+        ]
+      },
+      "id": "node/8962163995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971574267",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8948096,
+          46.6573617
+        ]
+      },
+      "id": "node/8971574267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971574268",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8989673,
+          46.6538074
+        ]
+      },
+      "id": "node/8971574268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8972058990",
+        "historic": "gallows"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8553049,
+          46.6788091
+        ]
+      },
+      "id": "node/8972058990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9045186158",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9138204,
+          46.6590959
+        ]
+      },
+      "id": "node/9045186158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288650869",
+        "historic": "memorial",
+        "image": "https://spark.adobe.com/page/mQQjOW4InKSBm/images/fb89a4ab-d298-4ee1-bf27-5fbc254974f5.jpg",
+        "material": "stone",
+        "memorial": "stele",
+        "memorial:conflict": "Franco-Prussian_War;WW1",
+        "name": "Bourbaki-Denkmal und 1914-18 Unterseen",
+        "name:de": "Bourbaki-Denkmal und 1914-18 Unterseen",
+        "name:fr": "Mémorial Bourbaki et 1914-18 Unterseen",
+        "ref:FR:MemorialGenWeb": "46915",
+        "start_date": "1871",
+        "url": "https://www.vtg.admin.ch/fr/inventario-3",
+        "war_memorial": "yes",
+        "website": "https://www.docker.ch/dominique/bourbaki-memoriaux/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849476,
+          46.6878216
+        ]
+      },
+      "id": "node/9288650869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288681878",
+        "historic": "memorial",
+        "image": "https://spark.adobe.com/page/aAe40gMKJjTRw/images/8aa6db3f-b9c9-4a2f-b16e-53dbe65c4a69.jpg",
+        "material": "stone",
+        "memorial": "stele",
+        "memorial:conflict": "Franco-Prussian_War;WW1",
+        "name": "Bourbaki-Denkmal und 1914-18 Wilderswil - Gsteigwiler",
+        "name:de": "Bourbaki-Denkmal und 1914-18 Wilderswil - Gsteigwiler",
+        "name:fr": "Mémorial Bourbaki et 1914-18 Wilderswil - Gsteigwiler",
+        "ref:FR:MemorialGenWeb": "36355",
+        "start_date": "1871",
+        "url": "https://www.vtg.admin.ch/fr/inventario-3",
+        "war_memorial": "yes",
+        "website": "https://www.docker.ch/dominique/bourbaki-memoriaux/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8727671,
+          46.6650771
+        ]
+      },
+      "id": "node/9288681878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460816931",
+        "ele": "896",
+        "historic": "monument",
+        "name": "Kalkofen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7611633,
+          46.6854016
+        ]
+      },
+      "id": "node/9460816931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9817940017",
+        "name:en": "Staubbachfall Viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9083661,
+          46.5948854
+        ]
+      },
+      "id": "node/9817940017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9830357020",
+        "direction": "90",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9858226,
+          46.5812818
+        ]
+      },
+      "id": "node/9830357020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9830357021",
+        "direction": "90",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9828362,
+          46.5810985
+        ]
+      },
+      "id": "node/9830357021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9902689994",
+        "name": "Skyline Walk",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8579036,
+          46.5616868
+        ]
+      },
+      "id": "node/9902689994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9922352857",
+        "direction": "150",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7966883,
+          46.6992819
+        ]
+      },
+      "id": "node/9922352857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9923046321",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7800864,
+          46.6278384
+        ]
+      },
+      "id": "node/9923046321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9947825741",
+        "direction": "30",
+        "historic": "memorial",
+        "material": "metal",
+        "memorial": "plaque",
+        "name": "Ewige Freundschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0354794,
+          46.6239645
+        ]
+      },
+      "id": "node/9947825741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9947825742",
+        "amenity": "bench",
+        "artwork_type": "sculpture",
+        "backrest": "yes",
+        "historic": "memorial",
+        "material": "wood",
+        "memorial": "bench",
+        "name": "Boss Chrigel",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0355807,
+          46.6239265
+        ]
+      },
+      "id": "node/9947825742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9947876322",
+        "historic": "vehicle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0313022,
+          46.6252589
+        ]
+      },
+      "id": "node/9947876322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953437768",
+        "direction": "315-112",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8972596,
+          46.6285681
+        ]
+      },
+      "id": "node/9953437768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9954945992",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8910033,
+          46.5963179
+        ]
+      },
+      "id": "node/9954945992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957075976",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0104359,
+          46.5721684
+        ]
+      },
+      "id": "node/9957075976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957075978",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0105233,
+          46.5724083
+        ]
+      },
+      "id": "node/9957075978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957717829",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9000838,
+          46.6816456
+        ]
+      },
+      "id": "node/9957717829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957833874",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8947571,
+          46.6601514
+        ]
+      },
+      "id": "node/9957833874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957833916",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9097474,
+          46.6518222
+        ]
+      },
+      "id": "node/9957833916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10309504950",
+        "name": "permanente Jungfrau-Marathon Startlinie",
+        "operator": "https://www.thegoldenclub.ch/",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8592094,
+          46.686938
+        ]
+      },
+      "id": "node/10309504950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10765921300",
+        "historic": "monument",
+        "name": "Umbau Englischer Garten 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8674631,
+          46.6906486
+        ]
+      },
+      "id": "node/10765921300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10812740501",
+        "direction": "0-180",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8937814,
+          46.6232217
+        ]
+      },
+      "id": "node/10812740501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11148521205",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9163235,
+          46.605506
+        ]
+      },
+      "id": "node/11148521205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11162688547",
+        "direction": "110",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8775782,
+          46.6184982
+        ]
+      },
+      "id": "node/11162688547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11266580124",
+        "check_date": "2023-06-19",
+        "description": "Selfie-Point Meielisalp",
+        "direction": "285",
+        "image": "https://www.meielisalp.ch/images/boxen/2_Platz_2020.jpg",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7872914,
+          46.6506738
+        ]
+      },
+      "id": "node/11266580124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12029608526",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9212807,
+          46.6056741
+        ]
+      },
+      "id": "node/12029608526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12029609863",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9195236,
+          46.6073316
+        ]
+      },
+      "id": "node/12029609863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12029623206",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9197565,
+          46.6074561
+        ]
+      },
+      "id": "node/12029623206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12189041436",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0599932,
+          46.6003533
+        ]
+      },
+      "id": "node/12189041436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12197097987",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9126291,
+          46.6174721
+        ]
+      },
+      "id": "node/12197097987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12248082804",
+        "direction": "35",
+        "historic": "memorial",
+        "inscription": "WALTER STÖSSER\nTHEO SEIBOLD\n † †\nBEI DER ERSTBESTEIGUNG DER MORGENHORN-NORDWAND\n1.8.1935",
+        "material": "metal",
+        "memorial": "plaque",
+        "wikimedia_commons": "File:Gedenktafel Erstbesteigung Morgenhorn-Nordwand 1935.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794598,
+          46.5220139
+        ]
+      },
+      "id": "node/12248082804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12265642680",
+        "attraction": "bunker",
+        "name": "A1880 Artilleriewerk Waldbrand",
+        "tourism": "attraction",
+        "website": "https://festung-waldbrand.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7515949,
+          46.6942982
+        ]
+      },
+      "id": "node/12265642680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12898172891",
+        "historic": "castle",
+        "name": "Ruine Unspunnen",
+        "ruins": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8574085,
+          46.6687082
+        ]
+      },
+      "id": "node/12898172891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13196221013",
+        "ele": "850",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9135728,
+          46.5696902
+        ]
+      },
+      "id": "node/13196221013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13297246176",
+        "description:de": "Distanzstein «Stundenstein» aus dem 19. Jahrhundert in Gehstunden von der Zytglogge in Bern. 11 Stunden von Bern entfernt, 52,8 km auf der Straße Bern-Spiez-Grimsel.",
+        "description:fr": "Borne de distance «Stundenstein» du XIXème siècle en heures de marche depuis la Zytglogge (Tour de l'Horloge) à Berne. 11 heures de Berne, soit 52,8km sur la route Bern-Spiez-Grimsel.",
+        "distance": "XI Stunden",
+        "height": "140 cm",
+        "historic": "milestone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Distanzstein_%C2%ABXI_Stunden_von_Bern%C2%BB_vor_Interlaken_%2801%29.jpg",
+        "inscription": "XI STUNDEN VON BERN",
+        "length": "48 cm",
+        "material": "limestone",
+        "name": "XI Stunden von Bern",
+        "note": "Weber B, Stundensteine im Kanton Bern, Berner Zeitschrift für Geschichte und Heimatkunde, Bd.38, 1976, S.73–82; Bolliger S, Der Zytglogge als Nabel der Welt, UniPress, Nr.148, 2011; Steininventar des Kantons Bern / Amt für Geoinformation des Kantons Bern.",
+        "ref": "milestone.stunde.Bern.1111.XI",
+        "start_date": "C19",
+        "url": "https://sketchfab.com/models/76b261bcc4b94744831461a7864ec80f/embed?autospin=0.2&autostart=1",
+        "website": "https://umap.osm.ch/m/11134",
+        "width": "27 cm",
+        "wikimedia_commons": "Category:Distanzstein «XI Stunden von Bern» vor Interlaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8404069,
+          46.6700267
+        ]
+      },
+      "id": "node/13297246176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13297246177",
+        "description:de": "Distanzstein «Stundenstein» aus dem 19. Jahrhundert in Gehstunden von der Zytglogge in Bern. 12 Stunden von Bern entfernt, 57,6km auf der Straße Interlaken-Grindelwald.",
+        "description:fr": "Borne de distance «Stundenstein» du XIXème siècle en heures de marche depuis la Zytglogge (Tour de l'Horloge) à Berne. 12 heures de Berne, soit 57,6km sur la route Interlaken-Grindelwald.",
+        "distance": "XII Stunden",
+        "height": "120 cm",
+        "historic": "milestone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Distanzstein_%C2%ABXII_Stunden_von_Bern%C2%BB_vor_Wilderswil_%2802%29.jpg",
+        "inscription": "XII Stunden von BERN",
+        "length": "48 cm",
+        "material": "limestone",
+        "name": "XII Stunden von Bern",
+        "note": "Weber B, Stundensteine im Kanton Bern, Berner Zeitschrift für Geschichte und Heimatkunde, Bd.38, 1976, S.73–82; Bolliger S, Der Zytglogge als Nabel der Welt, UniPress, Nr.148, 2011; Steininventar des Kantons Bern / Amt für Geoinformation des Kantons Bern.",
+        "ref": "milestone.stunde.Bern.1312.XII",
+        "start_date": "C19",
+        "url": "https://sketchfab.com/models/00509378238a43a89cc04e7b1d3e4173/embed?autospin=0.2&autostart=1",
+        "website": "https://umap.osm.ch/m/11134",
+        "width": "27 cm",
+        "wikimedia_commons": "Category:Distanzstein «XII Stunden von Bern» vor Wilderswil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8681663,
+          46.6710998
+        ]
+      },
+      "id": "node/13297246177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13297246178",
+        "description:de": "Distanzstein «Stundenstein» aus dem 19. Jahrhundert in Gehstunden von der Zytglogge in Bern. 13 Stunden von Bern entfernt, 62,4km auf der Straße Interlaken-Grindelwald.",
+        "description:fr": "Borne de distance «Stundenstein» du XIXème siècle en heures de marche depuis la Zytglogge (Tour de l'Horloge) à Berne. 13 heures de Berne, soit 62,4km sur la route Interlaken-Grindelwald.",
+        "distance": "XIII Stunden",
+        "height": "100 cm",
+        "historic": "milestone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Distanzstein_%C2%ABXIII_Stunden_von_Bern%C2%BB_vor_Zweil%C3%BCtschinen_%2801%29.jpg",
+        "inscription": "XIII Stunden von BERN",
+        "length": "46 cm",
+        "material": "limestone",
+        "name": "XIII Stunden von Bern",
+        "note": "Weber B, Stundensteine im Kanton Bern, Berner Zeitschrift für Geschichte und Heimatkunde, Bd.38, 1976, S.73–82; Bolliger S, Der Zytglogge als Nabel der Welt, UniPress, Nr.148, 2011; Steininventar des Kantons Bern / Amt für Geoinformation des Kantons Bern.",
+        "ref": "milestone.stunde.Bern.1313.XIII",
+        "start_date": "C19",
+        "url": "https://sketchfab.com/models/e25e9bde879540c882aecdf4bfec6e98/embed?autospin=0.2&autostart=1",
+        "website": "https://umap.osm.ch/m/11134",
+        "width": "15 cm",
+        "wikimedia_commons": "Category:Distanzstein «XIII Stunden von Bern» vor Zweilütschinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8880217,
+          46.6380367
+        ]
+      },
+      "id": "node/13297246178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13299341211",
+        "description:de": "Distanzstein «Stundenstein» aus dem 19. Jahrhundert in Gehstunden von der Zytglogge in Bern. 14 Stunden von Bern entfernt, 67,2km auf der Straße Zweilütschinen-Lauterbrunnen.",
+        "description:fr": "Borne de distance «Stundenstein» du XIXème siècle en heures de marche depuis la Zytglogge (Tour de l'Horloge) à Berne. 14 heures de Berne, soit 67,2km sur la route Zweilütschinen-Lauterbrunnen.",
+        "distance": "XIV Stunde",
+        "height": "154 cm",
+        "historic": "milestone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Distanzstein_%C2%ABXIV_Stunden_von_Bern%C2%BB_vor_Lauterbrunnen_%2801%29.jpg",
+        "inscription": "XIV Stunden von BERN (le I de XIV est incliné, parallèle au X et V)",
+        "length": "48 cm",
+        "material": "limestone",
+        "name": "XIV Stunden von Bern",
+        "note": "Weber B, Stundensteine im Kanton Bern, Berner Zeitschrift für Geschichte und Heimatkunde, Bd.38, 1976, S.73–82; Bolliger S, Der Zytglogge als Nabel der Welt, UniPress, Nr.148, 2011; Steininventar des Kantons Bern / Amt für Geoinformation des Kantons Bern.",
+        "ref": "milestone.stunde.Bern.1414.XIV",
+        "start_date": "C19",
+        "url": "https://sketchfab.com/models/c281100e4e2d4655ad5aa9e04894b4ef/embed?autospin=0.2&autostart=1",
+        "website": "https://umap.osm.ch/m/11134",
+        "width": "1 cm",
+        "wikimedia_commons": "Category:Distanzstein «XIV Stunden von Bern» vor Lauterbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.906455,
+          46.603127
+        ]
+      },
+      "id": "node/13299341211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13299341212",
+        "description:de": "Distanzstein «Stundenstein» aus dem 19. Jahrhundert in Gehstunden von der Zytglogge in Bern. 15 Stunden von Bern entfernt, 72km auf der Straße Interlaken-Grindelwald.",
+        "description:fr": "Borne de distance «Stundenstein» du XIXème siècle en heures de marche depuis la Zytglogge (Tour de l'Horloge) à Berne. 15 heures de Berne, soit 72km sur la route Interlaken-Grindelwald.",
+        "distance": "XV Stunden",
+        "height": "72 cm",
+        "historic": "milestone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Distanzstein_%C2%ABXV_Stunden_von_Bern%C2%BB_vor_Schwendi_%2801%29.jpg",
+        "inscription": "XV Stunden von BERN",
+        "length": "48 cm",
+        "material": "limestone",
+        "name": "XV Stunden von Bern",
+        "note": "Weber B, Stundensteine im Kanton Bern, Berner Zeitschrift für Geschichte und Heimatkunde, Bd.38, 1976, S.73–82; Bolliger S, Der Zytglogge als Nabel der Welt, UniPress, Nr.148, 2011; Steininventar des Kantons Bern / Amt für Geoinformation des Kantons Bern.",
+        "ref": "milestone.stunde.Bern.1315.XV",
+        "start_date": "C19",
+        "url": "https://sketchfab.com/models/66ed108f2f334faaab50dcfadb6666a9/embed?autospin=0.2&autostart=1",
+        "website": "https://umap.osm.ch/m/11134",
+        "width": "24 cm",
+        "wikimedia_commons": "Category:Distanzstein «XV Stunden von Bern» vor Schwendi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.999105,
+          46.6332298
+        ]
+      },
+      "id": "node/13299341212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13480479801",
+        "ele": "900",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9054175,
+          46.5898194
+        ]
+      },
+      "id": "node/13480479801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13991957368",
+        "summit:cross": "yes",
+        "summit:register": "yes",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8692485,
+          46.5470849
+        ]
+      },
+      "id": "node/13991957368"
+    }
+  ]
+}
